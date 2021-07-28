@@ -1,6 +1,6 @@
 package pages;
 
-import org.apache.poi.sl.usermodel.ObjectMetaData.Application;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -35,7 +35,7 @@ public class LoginToolsQA_Page extends BaseLibrary {
 
 		} catch (Exception e) {
 
-			System.out.println("Issue in clickOnDemosite");
+			System.out.println("Issue in clickONDemosite");
 		}
 	}
 	

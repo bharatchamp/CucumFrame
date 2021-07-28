@@ -59,7 +59,7 @@ public class Textbox_Pages extends BaseLibrary {
 
 		} catch (Exception e) {
 
-			System.out.println("issue in clickOn texybox");
+			System.out.println("issue in clickON Textbox");
 		}
 	}
 

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="java/pages/|java/test/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/java/pages"/>
+	<classpathentry kind="src" path="src/java/test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/jarfiles/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/commons-io-2.8.0/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/commons-io-2.8.0/commons-io-2.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/commons-io-2.8.0/commons-io-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/commons-io-2.8.0/commons-io-2.8.0-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bharat bisht/Desktop/Selenium/jarFolder/commons-io-2.8.0/commons-io-2.8.0-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ToolQA">
+
+	<test name="LaunchUrl" enabled = "true">
+		<classes>
+			<class name="test.Login_ToolsQA_Test"></class>
+		</classes>
+	</test>
+
+	<!-- <test name="Textbox" enabled = "false">
+		<classes>
+			<class name="test.Textbox_Test"></class>
+		</classes>
+	</test> -->
+
+	<test name="Formsfillup" enabled ="false">
+		<classes>
+			<class name="test.FormFillup_Test"></class>
+		</classes>
+	</test>
+
+</suite>

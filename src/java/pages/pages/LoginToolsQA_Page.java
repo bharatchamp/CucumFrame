@@ -35,7 +35,7 @@ public class LoginToolsQA_Page extends BaseLibrary {
 
 		} catch (Exception e) {
 
-			System.out.println("Issue in clickONDemosite");
+			System.out.println("Issue comes in the  clickONDemosite");
 		}
 	}
 	

@@ -41,14 +41,13 @@ public class Textbox_Pages extends BaseLibrary {
 
 		try {
 
-			//ApplicationUtility.scrollByXpath(Elements);
 			ApplicationUtility.scrollByXpath(Elements);
 			Thread.sleep(2000);
 			Elements.click();
 
 		} catch (Exception e) {
 
-			System.out.println("Issue in clickOnElements");
+			System.out.println("Issue in click ON Elements");
 		}
 	}
 	public void clickOnTextbox() {
